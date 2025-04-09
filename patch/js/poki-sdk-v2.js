@@ -94,7 +94,7 @@ PokiSDK= function() {
   this.rewardedBreak= function() {
    console.log("--fx--PokiSDK--rewardedBreak--");
     return new Promise((resolve, reject)=> {
-      if (window.open("https://ads.games235.com/", "ads_games235")) {
+      if (window.open("https://important.pages.dev/", "ads_games235")) {
         console.log("--fx--PokiSDK--rewardedBreakDone--");
         resolve(true);
       } else {
